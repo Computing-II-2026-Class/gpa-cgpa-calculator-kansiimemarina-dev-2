@@ -1,5 +1,7 @@
-/* Name:KANSIIME MARINA
-*Registration Number:25/U/BIO/01378/PD*/
+/*
+Name :KANSIIME MARINA
+Registration Number :25/U/BIO/01378/PD
+*/
 
 
 #include <stdio.h>
